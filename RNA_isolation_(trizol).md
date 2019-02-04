@@ -1,4 +1,4 @@
-Total RNA isolation protocol with TRIZOL, including small RNA’s. 
+# Total RNA isolation protocol with TRIZOL, including small RNA’s. 
 (Personal adaption Kees Spelt)
 
 1.	Prepare as many 2.0 ml vials as samples with 1.5ml Trizol

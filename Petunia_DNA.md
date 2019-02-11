@@ -1,9 +1,9 @@
-#Leaf disc DNA-isolation
+# Leaf disc DNA-isolation
 
 
-##Start with safelock cap tubes taking samples!
+## Start with safelock cap tubes taking samples!
 
-##Method 
+## Method 
 1.	Take one eppendorf-tube size disc from a leaf and grind with a pestle until the leaf disc has become slurry. You can do 12 samples in 1 go.
 2.	Add 600µl extraction buffer (see below) by rinsing/washing the pestle. Shake well.
 3.	Leave at room temp till all (or half) samples have been ground. 

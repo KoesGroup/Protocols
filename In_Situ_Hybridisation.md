@@ -115,8 +115,7 @@ Purify PCR product on spin column; perform a phenol/chloroform extraction and pr
 
 -	Add to 100µl  probe: 20 µg tRNA and 100 µl hydrolysis buffer.
 
-Hydrolysis buffer: mix 0.2 M NaHCO3  and 0.2 M Na2CO3 in a ratio 2:3.
-The pH should be 10.2
+    •	Hydrolysis buffer: mix 0.2 M NaHCO3  and 0.2 M Na2CO3 in a ratio 2:3. The pH should be 10.2
 
 -	After incubation at 60¸˚C add 1/10 vol 3M NaAc ph 5.5 and 10 µl 10% acetic acid and precipitate with ethanol (-20˚C).
 
@@ -148,9 +147,9 @@ Tijs stores DIG RNA probes in water in -20˚C  freezer and adds 2-4µl/ml hybrid
 
 -	After hybridization put the slides with coverslips in a staining dish with 2 x SSC at RT (15 min). The coverslips should slide off the slides and fall to the bottom of the staining dish.
 
--	Washing procedure: Dependent of the probe used!
+-	Washing procedure: Use one of the below, dependent of the probe used!
       1)	Mild wash: 3 x 25 min. with 1 x SSC  at 37˚C.
-      2)	Stringent wash: 3 x 25 min. with 0.2 x SSC at 55˚C.(Tijs uses this) preheated bottle in the waterbath
+      2)	Stringent wash: 3 x 25 min. with 0.2 x SSC at 55˚C. preheated bottle in the waterbath
 
 -	RNAse treatment: incubate 30 min. at 37˚C in prewarmed NTE (500mM NaCl / TE pH 8.0)with 20 µg/ml RNAse A (Boehringer).  Use a stock solution of 10 mg/ml and store at -20˚C in storage buffer(=.10mM Tris/HCl pH7.0; 5mM CaCl2; 50% glycerol)
 -	Rinse a few times in MQ-water(Don’t wait long!).
@@ -192,7 +191,3 @@ Drop 200 µl on a slide and cover with a coverslip. Incubate in a humidified imm
 
 -	Enzymincubation / Colourreaction; O/N in a humidified immuno slide staining tray, in the dark at RT.
 Add to 10 ml Buffer 3 45 µl NBT-solution (eppendorf tube number 4 from Boehringer KIT) and 35 µl  X-Phospate-solution (eppendorf tube number 5). Drop about 0.5 ml colouring solution on a slide, cover with a coverslip and incubate O/N. (Sometimes a longer incubation time is necessary depending on the probe concentration and expression level.)
-
- 
-
-

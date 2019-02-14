@@ -168,13 +168,13 @@ Tijs stores DIG RNA probes in water in -20˚C  freezer and adds 2-4µl/ml hybrid
 -	Incubate for 1 hour in Buffer 1, shake carefully at RT.
 
 
-Buffer 1: 100 mM Tris-HCL pH 7.5
+    •	Buffer 1: 100 mM Tris-HCL pH 7.5
                 150 mM NaCl
                  1% Boehringer Blocking(from autoclaved 10% blocking made in maleic acid buffer)
 
 -	Incubate 30 min. in Buffer 2, shake carefully at RT.
 
-Buffer 2: 0.5% BSA
+    •	Buffer 2: 0.5% BSA
                 0.3% TRITON X 100
                 100 mM Tris-HCL pH 7.5
                 150 mM NaCl
@@ -186,7 +186,7 @@ Drop 200 µl on a slide and cover with a coverslip. Incubate in a humidified imm
 
 -	Wash 10 minutes in Buffer 3, shake carefully at RT
 
-Buffer 3: 100 mM Tris-HCL ph 9.5
+    •	Buffer 3: 100 mM Tris-HCL ph 9.5
                 100 mm NaCl 
                   50 mM MgCl2 
 

@@ -1,6 +1,6 @@
 # First strand cDNA synthesis
 
-Most items are stored in the box 1st strand cDNA stuff in P553
+Most items are stored in the box 1st strand cDNA stuff in A2.14
 
 For each synthesis:
 

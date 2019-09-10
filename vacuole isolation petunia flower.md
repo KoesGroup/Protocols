@@ -2,40 +2,55 @@
 Jan van Blokland June 2019
 
 Chemicals:
--	0.2M Na2HPO4 * 2H2O    pH=7.5
+---
 
+ 0.2M Na2HPO4 * 2H2O    pH=7.5
+ ---
 o	Inweeg: 1.78 gr/50ml
 
--	0.2M Na2HPO4 * 2H2O    pH=8
 
+0.2M Na2HPO4 * 2H2O    pH=8
+---
 o	Inweeg: 1.78 gr/50ml
 
--	1M mannitol 
-
+1M mannitol 
+---
 o	Inweeg: 18.217 gr/100ml
 
--	30% Ficoll 400				PREPARE DAY BEFORE (store at RT)		
+30% Ficoll 400	PREPARE DAY BEFORE (store at RT)
+--- 		
 o	Inweeg: 4.5 gr/15ml
 •	ALERT: Dissolve at 60 degrees with frequent mixing. DON’T HEAT TO LONG, MAX 1 HOUR   crucial
 
--	 0.5M EDTA      pH=8
+0.5M EDTA      pH=8
+---
 o	Inweeg: 9.3 gr/50ml
+
 Solutions/buffers:
--	Electroporation buffer:                   pH: 7.2 
+---
+Electroporation buffer:                   pH: 7.2 
+***
 o	136.9 gr/L   sucrose
+
 o	2.4 gr/L HEPES
+
 o	6 gr/L KCl
+
 o	600 mg/L CaCl2 * 2 H2O
+
 	Filter sterilize the solution with 45uM pore sterilization filter.
+
 Scheme for lysis buffer and vacuolar buffer for one protoplast isolation:
-	Lysis buffer (10% ficoll)	Vacuolar buffer (0% ficoll)
-1M Mannitol	3 mL	3.75 mL
-30% Ficoll 400	5 mL	-
-0.5M EDTA pH 8	300 uL	30uL
-0.2M Na2HPO4 * 2H2O    pH=7.5	375 uL	-
-0.2M Na2HPO4 * 2H2O    pH=8	-	375 uL
-MilliQ	6.325 mL	10.845 mL
-Total volume	15 mL	15 mL
+***
+|                         |Lysis buffer (10% ficoll)   |Vacuolar buffer (0% ficoll)|
+|-------------------------|:--------------------------:|---------------------------|
+|1M Mannitol              |	3 mL                   |	3.75 mL            |
+|30% Ficoll 400           |	5 mL	               |           0               |
+|0.5M EDTA pH 8	          |     300 uL	               |          30uL             |
+|0.2M Na2HPO4 * 2H2O  pH=7.5|	375 uL	               |           0               |
+|0.2M Na2HPO4 * 2H2O    pH=8|	  0                    | 	375 uL             |
+|MilliQ                   |   	6.325 mL               |	10.845 mL          |
+|`Total volume`             |	`15 mL`                  |	`15 mL`              |
  
 -	5% Ficoll solution (for one protoplast isolation)
 o	4 mL Lysis buffer + 4 mL Vacuolar buffer

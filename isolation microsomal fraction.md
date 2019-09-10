@@ -18,10 +18,10 @@ phosphatase inhibitor(#xxx) 		  - 1 tablet/10ml
 5.5 mM freshly made DTT (dithiotreitol)	  - 0.0077 gr/10ml
 ```
 ```
-UTU buffer:   pH 8.0
-6M urea	    - 18.018 gr/50ml
-2M thiourea - 7.612   gr/50ml
-TRIS-HCL to buffer?
+UTU buffer:    pH 8.0
+ 6M urea     - 18.018 gr/50ml
+ 2M thiourea - 7.612   gr/50ml
+ TRIS-HCL to buffer?
 ```
 
 Workflow:  keep working on ice!!h

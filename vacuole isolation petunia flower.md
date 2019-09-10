@@ -1,29 +1,30 @@
 # Vacuole isolation from flower protoplasts
+---
+
 Jan van Blokland June 2019
 
 ## Chemicals:
----
 
  ### 0.2M Na2HPO4 * 2H2O    pH=7.5
- ---
+ 
 o	Inweeg: 1.78 gr/50ml
 
 
 ### 0.2M Na2HPO4 * 2H2O    pH=8
----
+
 o	Inweeg: 1.78 gr/50ml
 
 ### 1M mannitol 
----
+
 o	Inweeg: 18.217 gr/100ml
 
 ### 30% Ficoll 400	PREPARE DAY BEFORE (store at RT)
---- 		
+	
 o	Inweeg: 4.5 gr/15ml
 •	ALERT: Dissolve at 60 degrees with frequent mixing. DON’T HEAT TO LONG, MAX 1 HOUR   crucial
 
 ### 0.5M EDTA      pH=8
----
+
 o	Inweeg: 9.3 gr/50ml
 
 ### Solutions/buffers:
@@ -57,6 +58,8 @@ Scheme for lysis buffer and vacuolar buffer for one protoplast isolation:
 o	*4 mL* Lysis buffer + *4 mL* Vacuolar buffer
 
 ## Workflow:
+---
+
 1.	Isolate protoplasts as described by Mariana Faraco.
 
 o	Except: wash protoplast in electroporation buffer instead of TEX. 

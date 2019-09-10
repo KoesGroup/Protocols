@@ -27,9 +27,9 @@ o	Inweeg: 4.5 gr/15ml
 
 o	Inweeg: 9.3 gr/50ml
 
-### Solutions/buffers:
+## Solutions/buffers:
 ---
-## Electroporation buffer:                   pH: 7.2 
+### Electroporation buffer:                   pH: 7.2 
 
 o	136.9 gr/L   sucrose
 

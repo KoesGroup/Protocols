@@ -1,5 +1,5 @@
 
-PETUNIA TRANSFORMATION PROTOCOL 
+## PETUNIA TRANSFORMATION PROTOCOL 
 
 Prepare for each transformation: 
 1 day before
@@ -7,7 +7,7 @@ Prepare for each transformation:
 -	3-4 petridishes with MS medium + hormones+ acetosyringone; without antibiotics for co-cultivation.  MS medium: see below.
 -	6-10 petridishes with MS medium + hormones; with antibiotics for selection.
 -	A.tum culture with construct to grow overnight
--	
+
 Transformation day:
 -	70% ethanol
 -	0.5% hypochlorite (usually 1:8 dilution of commercial bleech, which is 4% hypochlorite)
@@ -15,7 +15,8 @@ Transformation day:
 -	6 sterile vials (monster/opbergdoos)
 -	sterile petridishes for cutting sterile plant tissue
 -	petunia leaves
--	Fresh 1:10 diluted (in water) of overnight grown Agrobacterium tumefaciens culture + 20µM acetosyringone (stock= 200mM in DMSO, so dilute 1:10.000) added just before transformation. This culture preferable grown with only selective antibiotic for the plasmid, so without rifampicin. Rifampicin sometimes causes aggregates of Agrobacterium, giving strange results (we think).
+
+Fresh 1:10 diluted (in water) of overnight grown Agrobacterium tumefaciens culture + 20µM acetosyringone (stock= 200mM in DMSO, so dilute 1:10.000) added just before transformation. This culture preferable grown with only selective antibiotic for the plasmid, so without rifampicin. Rifampicin sometimes causes aggregates of Agrobacterium, giving strange results (we think).
 
 Leaf explants can be taken either from in vitro cultivated plants or from plants growing in the greenhouse. Many inbred lines, like R27 and derived lines, are very hard to transform. We are sometimes successful, using in vitro cultivated plants as starting material. For in vitro cultivation use 0.5x MS medium without hormones. 
 

@@ -20,23 +20,24 @@ TE10/1(10mMTris pH8.0/1mM EDTA):1M LiAc=8:2
 
 ## One-step buffer:
 `
-  0.2 M LiAc(from 1M stock) 
-  40% PEG-4000(from 50% stock) 
-  Optional: 100 mM DTT(from 1M stock) 
+ - 0.2 M LiAc(from 1M stock) 
+ - 40% PEG-4000(from 50% stock) 
+ - Optional: 100 mM DTT(from 1M stock) 
 `
 
 Prepare: 40% glucose separately(autoclave)
 
 ## YAPD medium(per liter):
-  20 gram bacto-pepto
-  10 gram yeast extract
-  35 mg adenine
-  (for plates add 15 gram agar)
-  add water to 950 ml
-  adjust pH (should be ± 5.8)
-  autoclave at 110 ˚C
-  add 50 ml 40% glucose after autoclaving
-
+`
+-  gram bacto-pepto
+-  gram yeast extract
+-  mg adenine
+- or plates add 15 gram agar)
+- d water to 950 ml
+- just pH (should be ± 5.8)
+- toclave at 110 ˚C
+- d 50 ml 40% glucose after autoclaving
+`
 
 ## SD medium(per liter):
   6,70 gram YNB

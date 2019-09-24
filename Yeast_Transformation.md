@@ -29,9 +29,9 @@ Prepare: 40% glucose separately(autoclave)
 
 ## YAPD medium(per liter):
 `
--  gram bacto-pepto
--  gram yeast extract
--  mg adenine
+- gram bacto-pepto
+- gram yeast extract
+- mg adenine
 - or plates add 15 gram agar)
 - d water to 950 ml
 - just pH (should be ± 5.8)
@@ -40,23 +40,27 @@ Prepare: 40% glucose separately(autoclave)
 `
 
 ## SD medium(per liter):
-  6,70 gram YNB
-  0,62 gram CSM or alternative drop-out powder (drop-out for your favorite selection)
-  35 mg adenine (unless you want to select for adenine)
-  if neccassary add additional aminoacids from a 100x stock
-  (for plates add 12 gram agar)
-  add water to 950 ml or less if you have to add 100x aminoacid stocks(10ml each)
-  add ±3 drops of 10M NaOH (pH should be ± 5.8)
-  autoclave at 110 ˚C
-  add 50 ml 40% glucose after autoclaving
+`
+- 6,70 gram YNB
+- 0,62 gram CSM or alternative drop-out powder (drop-out for your favorite selection)
+- 35 mg adenine (unless you want to select for adenine)
+- if neccassary add additional aminoacids from a 100x stock
+- (for plates add 12 gram agar)
+- add water to 950 ml or less if you have to add 100x aminoacid stocks(10ml each)
+- add ±3 drops of 10M NaOH (pH should be ± 5.8)
+- autoclave at 110 ˚C
+- add 50 ml 40% glucose after autoclaving
+`
 
 
 ## Amino Acid stocks: (filter sterilised)
-100x Leucine: 10 gram/liter
-100x Histidine: 2 gram/liter
-100x (L-)Tryptophan: 2 gram/liter 
-100x Adenine : 2 gram/liter
-100x Uracil : 2 gram/liter
+`
+- 100x Leucine: 10 gram/liter
+- 100x Histidine: 2 gram/liter
+- 100x (L-)Tryptophan: 2 gram/liter 
+- 100x Adenine : 2 gram/liter
+- 100x Uracil : 2 gram/liter
+`
 
 # Check colonies by PCR: 
 ## Boil-Freeze method

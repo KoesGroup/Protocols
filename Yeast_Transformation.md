@@ -1,18 +1,19 @@
 # Yeast transformation
 
-Grow yeast strain overnight at 30 ˚C in 5 ml YAPD or other appropriate medium
-Spin down 500 µl culture in an eppendorf 5 minutes at 2000rpm at room temperature
-Discard supernatant and wash with 1ml TE/LiAc. Spin again
-Discard supernatant completely(with yellow tip)
-Resuspend cells in: 	1-2 µg plasmid DNA (maximum 5 µl) or 
-In case of in vivo recombination:	100ng digested vector+400ng insert(ratio 10:1)
-Add 5 µl boiled (and cooled on ice) salmon sperm (carrier) DNA (10µg/µl)
-Mix by vortexing
-Add 100 µl one-step buffer, mix well
-Incubate at 30 ˚C for 30 minutes
-Add 10µl DMSO, vortex again and incubate at 42˚C for 15 minutes
-Plate cells on selection media, carefully spreading, Not to vert dry.
-Yeast grows very slow at 30˚C(3-5 days)
+ 1. Grow yeast strain overnight at 30 ˚C in 5 ml YAPD or other appropriate medium
+ 2. Spin down 500 µl culture in an eppendorf 5 minutes at 2000rpm at room temperature
+ 3. Discard supernatant and wash with 1ml TE/LiAc. Spin again
+ 4. Discard supernatant completely(with yellow tip)
+ 5. Resuspend cells in: 	1-2 µg plasmid DNA (maximum 5 µl) or 
+ 6. In case of in vivo recombination:	100ng digested vector+400ng insert(ratio 10:1)
+ 7. Add 5 µl boiled (and cooled on ice) salmon sperm (carrier) DNA (10µg/µl)
+ 8. Mix by vortexing
+ 9. Add 100 µl one-step buffer, mix well
+10. Incubate at 30 ˚C for 30 minutes
+11. Add 10µl DMSO, vortex again and incubate at 42˚C for 15 minutes
+12. Plate cells on selection media, carefully spreading, Not to vert dry.
+
+Take note: Yeast grows very slow at 30˚C(3-5 days)
 
 ## TE/LiAc:
 TE10/1(10mMTris pH8.0/1mM EDTA):1M LiAc=8:2
@@ -64,12 +65,17 @@ Prepare: 40% glucose separately(autoclave)
 
 # Check colonies by PCR: 
 ## Boil-Freeze method
-Tip a yeast colony with a toothpick or yellow tip and smear some at the bottom of a PCR vial. If necessary stripe on a fresh plate to save the clone(s). 
-Do this for each PCR you wish to do.
-Add 20 µl water to each tube and cover the whole plate or strip with lids or tape.
-Pre-heat a PCR machine at 100°C and take liquid N2.
-Vortex to be sure the colonies are resuspended
-Start with boiling the samples for 2-3 minutes. Freeze the whole set by keeping in the N2 until completely frozen and put back in the PCR machine to boil for 1 minute. Repeat this 3-5 times. End with a boiling step.
-Vortex again and use 2µl per PCR of 25µl.
-Perform PCR with 35 cycles.
-Good luck!
+
+ 1. Tip a yeast colony with a toothpick or yellow tip and smear some at the bottom of a PCR vial. If necessary stripe on a fresh plate to save the clone(s). 
+ 2. Do this for each PCR you wish to do.
+ 3. Add 20 µl water to each tube and cover the whole plate or strip with lids or tape.
+ 4. Pre-heat a PCR machine at 100°C and take liquid N2.
+ 5. Vortex to be sure the colonies are resuspended
+ 6. Start with boiling the samples for 2-3 minutes (in PCR-machine). 
+ 7. Freeze the whole set by keeping in the N2 until completely frozen.
+ 8. Put back in the PCR machine to boil for 1 minute. 
+ 9. Repeat this 3-5 times. End with a boiling step.
+10. Vortex again and use 2µl per PCR of 25µl.
+11. Perform PCR with 35 cycles.
+
+## Good luck!

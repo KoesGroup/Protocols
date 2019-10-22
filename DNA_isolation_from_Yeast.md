@@ -16,7 +16,7 @@ Plasmid DNA Yeast
 
 
 Lysis buffer:   
-  100 mM NaCl   
-  10 mM Tris HCl pH 8.0   
-  1 mM EDTA   
-  0.1% SDS    
+ - 100 mM NaCl   
+ - 10 mM Tris HCl pH 8.0   
+ - 1 mM EDTA   
+ - 0.1% SDS    

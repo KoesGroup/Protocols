@@ -3,17 +3,17 @@
 
 ### Before starting:
 
-1.	You need a lot of plasmid DNA to get protoplast transformed. This DNA must be:
+1. You need a lot of plasmid DNA to get protoplast transformed. This DNA must be:
 
-•	PURE (without salt contamination)
-•	CONCENTRTATED (2 µg/µl)
-•	SUPERCOILED
+* PURE (without salt contamination)
+* CONCENTRTATED (2 µg/µl)
+* SUPERCOILED
 
-We use MIDI KIT from QIAGEN to get this kind of product. 
-In order to do not lose supercoiled structure, don’t use vortex and avoid to freeze and defreeze your sample!!! Protoplasts require supercoiled DNA to get transformed!!!
+	We use MIDI KIT from QIAGEN to get this kind of product. 
+	In order to do not lose supercoiled structure, don’t use vortex and avoid to freeze and defreeze your sample!!! Protoplasts 		require supercoiled DNA to get transformed!!!
 
 
-2.	Be careful with PEG solution: it is one of the most common cause of “unworking experiment”.
+2. Be careful with PEG solution: it is one of the most common cause of “unworking experiment”.
 Adjust the pH and wait some minutes. It can happen that pH drops and you have to adjust it again!!!
 AFTER this add PEG and wait for its thawing in solution. PEG damages the pH meter electrode so you cannot adjust later. 
 Finally split solution in more aliquots and autoclave. After autoclaving, close well the tube plug and store at 37°C.

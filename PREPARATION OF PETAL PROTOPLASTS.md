@@ -1,7 +1,7 @@
-PREPARATION OF PETAL PROTOPLASTS.
+## PREPARATION OF PETAL PROTOPLASTS.
 
 
-Before starting:
+### Before starting:
 
 1.	You need a lot of plasmid DNA to get protoplast transformed. This DNA must be:
 
@@ -22,47 +22,58 @@ Finally split solution in more aliquots and autoclave. After autoclaving, close 
 ==========
 
  
-BUFFER FOR PETAL PROTOPLASTS:
+### BUFFERS FOR PETAL PROTOPLASTS:
 
-	TEX BUFFER (0.5 L)
-	Solution A
+TEX BUFFER (0.5 L)
+
+
+Solution A
+```
 1.55 g Gamborg’s B5 salts (SIGMA) 
 250 mg MES
 375 mg CaCl2*2H2O
 125 mg NH4NO3
     Dissolve all these salts in 100 mL ddH2O，pH 5,7 (with 1M KOH)，Filter sterilise (0,45 µm pore)
-	Solution B
+```
+Solution B
+```
 68.45 g sucrose，dissolve this amount sucrose in 400 mL, autoclave.
     Mix solution A (100 mL) and B (400 mL) well, then you get the Tex buffer.
+```
 
-
-	10X LEAF DIGESTION SOLUTION (stock, stored at -20°C)
+10X LEAF DIGESTION SOLUTION (stock, stored at -20°C)
+```
 2% w/v macrozyme R-10
 4% w/v cellulase R-10
 in TEX BUFFER
-Mix for at least 30 minutes, then centrifuge at 4000 rpm (in a 50 ml centrifuge tube) for 15 minutes to remove insoluble particles. Filter sterilize the supernatant using a syringe filter (0,45 µm pore) and store in 5 ml aliquots at -20°C.
-Dilute to a total volume of 50 ml with TEX buffer before use.
+	Mix for at least 30 minutes, then centrifuge at 4000 rpm (in a 50 ml centrifuge tube) for 15 minutes to remove insoluble 		particles. Filter sterilize the supernatant using a syringe filter (0,45 µm pore) and store in 5 ml aliquots at -20°C.
+	Dilute to a total volume of 50 ml with TEX buffer before use.
+```
 
-	PEG SOLUTION	20 ml
-		
-0.4M Mannitol 		1,457 gr
-0.1M Ca(NO3)2 *4H2O 	0,472 gr
-pH 8 (before adding PEG, with KOH 0,5M)
-40% PEG4000 		8 gr (after pH!!!)
+PEG SOLUTION	20 ml
+```		
+1,457 g	Mannitol (0.4 M) 		
+0,472 g	Ca(NO3)2 *4H2O (0.1 M) 	
+pH 8 (before adding PEG, with KOH 0.5 M)
+8 g  40% PEG4000 (after pH!!!)
 autoclave. (Can be stored in 37°C stove for few weeks)
+```
 
-	MMM	100ml
-Mannitol 0.5 M	9.11g
-MgCl2 15 mM	            0.3g
-MES 0.1%		0.1g
+MMM	100ml
+```
+9.11 g Mannitol (0.5 M)
+0.3 g  MgCl2 (15 mM)
+0.1 g  MES (0.1%)
 autoclave
+```
 
 W5 osmoticum	1l 
-NaCl		154 mM    	9 g
-CaCl2*2H2O	125mM	18.3g
-KCl 	 	5 mM		0.37 g
-Glucose 	5 mM		1g        (adjust to pH 5,7)
- 
+```
+9 g    NaCl (154 mM)
+18.3 g CaCl2*2H2O (125 mM)
+0.37 g KCl (5 mM)
+1 g    Glucose (5 mM)       (adjust to pH 5,7)
+```
 Read the protocol before starting and make sure you have all the stock solutions ready.
 
 

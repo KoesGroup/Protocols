@@ -24,7 +24,7 @@ Finally split solution in more aliquots and autoclave. After autoclaving, close 
  
 ### BUFFERS FOR PETAL PROTOPLASTS:
 
-TEX BUFFER (0.5 L)
+#### TEX BUFFER (0.5 L)
 
 
 Solution A
@@ -38,10 +38,11 @@ Solution A
 Solution B
 ```
 68.45 g sucrose，dissolve this amount sucrose in 400 mL, autoclave.
-    Mix solution A (100 mL) and B (400 mL) well, then you get the Tex buffer.
 ```
+___Mix solution A (100 mL) and B (400 mL) well, to get the Tex buffer.___
 
-10X LEAF DIGESTION SOLUTION (stock, stored at -20°C)
+
+#### 10X LEAF DIGESTION SOLUTION (stock, stored at -20°C)
 ```
 2% w/v macrozyme R-10
 4% w/v cellulase R-10
@@ -50,7 +51,7 @@ in TEX BUFFER
 	Dilute to a total volume of 50 ml with TEX buffer before use.
 ```
 
-PEG SOLUTION	20 ml
+#### PEG SOLUTION	20 ml
 ```		
 1,457 g	Mannitol (0.4 M) 		
 0,472 g	Ca(NO3)2 *4H2O (0.1 M) 	
@@ -59,7 +60,7 @@ pH 8 (before adding PEG, with KOH 0.5 M)
 autoclave. (Can be stored in 37°C stove for few weeks)
 ```
 
-MMM	100ml
+#### MMM	100ml
 ```
 9.11 g Mannitol (0.5 M)
 0.3 g  MgCl2 (15 mM)
@@ -67,7 +68,7 @@ MMM	100ml
 autoclave
 ```
 
-W5 osmoticum	1l 
+#### W5 osmoticum	1l 
 ```
 9 g    NaCl (154 mM)
 18.3 g CaCl2*2H2O (125 mM)
@@ -77,7 +78,7 @@ W5 osmoticum	1l
 Read the protocol before starting and make sure you have all the stock solutions ready.
 
 
-FIRST DAY.
+### FIRST DAY.
 
 1.	Collect petals from plants grown in greenhouse. Choose young flowers completely opened the same day or the day after. (In my opinion, the best plants for getting protoplast are M1xV30).
 
@@ -103,7 +104,7 @@ FIRST DAY.
 
  
 
-SECOND DAY.
+### SECOND DAY.
 
 1.	Gently shake the plates in the dark up to 30 minutes (no more).
 
@@ -182,9 +183,9 @@ This amount is optimal for small plasmids (4 Kb), increase it proportionally for
 
 32.	Incubate tubes in the dark at 26°C overnight.
 
-THIRD DAY.
+### THIRD DAY.
 
 If your protoplast are still alive...CONGRATULATIONS!!!
 Now you are ready for confocal microscopy, protein extraction, RNA extraction...and whatever you like!!!
 
-GOOD LUCK!!!
+___GOOD LUCK!!!___

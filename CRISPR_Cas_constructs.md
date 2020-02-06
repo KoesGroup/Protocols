@@ -41,7 +41,7 @@ Should give a pcr-product of approximately 500 bp in length.
 ### Restriction/ligation reaction:
 Mix:	
   - 1 μl	pcr product of target
-  - 11 μl	pcr product of target 2
+  - 1 μl	pcr product of target 2
   - 1-2 μl	V304(kan) or V305(hyg) or V306(basta)
   - 10 U	Bsa1
   - 10 U	T4 DNA-ligase(HC)

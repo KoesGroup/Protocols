@@ -18,7 +18,7 @@
 12.	In general 5µl will be sufficient for a PCR of 25µl
 13.	If PCRs don’t work try with less DNA and more cycles(35 or 40).
 
-DNA extraction buffer = 0.1M Tris pH 8.0;  0.5M NaCl;  50mM EDTA; 10mM  mercapto-ethanol(=700l/liter)
+DNA extraction buffer = 0.1M Tris pH 8.0;  0.5M NaCl;  50mM EDTA; 10mM  beta mercapto-ethanol(=700µl/liter)
 TE    = 0.01 M Tris pH 8.0, 1mM EDTA
 EDTA = 0.5M pH 8.0
 TRIS = 1.0 M pH 8.0

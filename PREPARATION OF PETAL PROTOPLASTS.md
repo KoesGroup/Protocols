@@ -47,8 +47,9 @@ ___Mix solution A (100 mL) and B (400 mL) well, to get the Tex buffer.___
 2% w/v macrozyme R-10
 4% w/v cellulase R-10
 in TEX BUFFER
-	Mix for at least 30 minutes, then centrifuge at 4000 rpm (in a 50 ml centrifuge tube) for 15 minutes to remove insoluble 		particles. Filter sterilize the supernatant using a syringe filter (0,45 µm pore) and store in 5 ml aliquots at -20°C.
-	Dilute to a total volume of 50 ml with TEX buffer before use.
+	Mix for at least 30 minutes, then centrifuge at 4000 rpm (in a 50 ml centrifuge tube) for 15 minutes to remove 
+	insoluble particles. Filter sterilize the supernatant using a syringe filter (0,45 µm pore) and store in 5 ml 
+	aliquots at -20°C. Dilute to a total volume of 50 ml with TEX buffer before use.
 ```
 
 #### PEG SOLUTION	20 ml

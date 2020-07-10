@@ -19,6 +19,13 @@ Solution B
 ```
 ___Mix solution A (100 mL) and B (400 mL) well, to get the Tex buffer.___
 
+#### W5 osmoticum	1l 
+```
+9 g    NaCl (154 mM)
+18.3 g CaCl2*2H2O (125 mM)
+0.37 g KCl (5 mM)
+1 g    Glucose (5 mM)       (adjust to pH 5,7)
+```
 
 #### 10X LEAF DIGESTION SOLUTION (stock, stored at -20°C)
 ```

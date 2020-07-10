@@ -75,18 +75,20 @@ Always keep this solution in the dark.
 
 ### SECOND DAY.
 
-1.	Gently shake the plates in the dark up to 30 minutes (no more).
+1. Gently shake the plates in the dark up to 30 minutes (no more).
 
-2.	Carefully, swing the tissue around the buffer to promote the exit of the protoplasts 
+2. Carefully, swing the tissue around the buffer to promote the exit of the protoplasts 
 
-3.	With a red-burning scapel, make a "V shape" cut in the petri dish
+3. With a red-burning scapel, make a "V shape" cut in the petri dish
 
-4. Decant the cells into a 50mL Falcon keeping the widest angle possible and avoiding tissue debris to flow through
+4. Decant the cells into a 50mL Falcon keeping the widest angle possible and avoiding tissue debris to flow through. Add TEX until 25 mL
 
 5. Centrifuge tubes and spin for 10 minutes at 700 (RPM) or 100g (RCF) at room temperature into a swing-out rotor, with acceleration 2 and deceleration 0. Living protoplasts will float whereas cell debris will be pelleted.
 
 6.	Using a long (230 mm) Pasteur pipette (remember to sterilize it with Bunsen!!!) connected to a persistaltic pump, create a “window” in the centre of the floating protoplasts layer by pushing the cells outwards from the centre (a demonstration is useful before you try this). As soon as the pipette passes through the protoplasts layer, increase the suction on the pump and suck up the pellet of debris and as much medium as possible. 
 Remember to slow the pump rate well before the floating cells reach the bottom of the tube, or your yield will be very low!!!
+
+6.5 Add 25 mL TEX, centrifudge again and remove solution
 
 7. Add 1 mL of TEX buffer
 

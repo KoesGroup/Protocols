@@ -90,6 +90,8 @@ Remember to slow the pump rate well before the floating cells reach the bottom o
 
 6.5 Add 25 mL TEX, centrifudge again and remove solution
 
+OPTIONAL: If you need to perform the protoplasts, do it now following the general protoplast preparation protocol
+
 7. Add 1 mL of TEX buffer
 
 8. Split the protoplasts into 2 12 mL Falcon tubes (500 uL each)

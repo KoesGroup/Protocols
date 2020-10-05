@@ -94,7 +94,7 @@ Remember to slow the pump rate well before the floating cells reach the bottom o
 
 8. Split the protoplasts into 2 12 mL Falcon tubes (500 uL each)
 
-9. Add 500 uL of TEX 20 uM DCFDA or just TEX (for the mock)
+9. Add 500 uL of TEX 20 uM DCFDA (10 uL DCFDA 1000 uM in 490 uL TEX) or just TEX (for the mock)
 
 10. Incubate for 30 minutes in the dark
 

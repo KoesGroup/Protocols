@@ -6,7 +6,7 @@
 1. You need a lot of plasmid DNA to get protoplast transformed. This DNA must be:
 
 * PURE (without salt contamination)
-* CONCENTRTATED (2 µg/µl)
+* CONCENTRTATED (2000 µg/µl)
 * SUPERCOILED
 
 	We use MIDI KIT from QIAGEN to get this kind of product. 

@@ -24,7 +24,7 @@ Repeat from step1 30x.
 
 Use 5-10µl for agarose gel electroforesis
 
-## PCR(Polymerase Chain Reaction) with Taq
+## PCR(Polymerase Chain Reaction) with Phusion
 
 -	x µl DNA (genomic DNA 25-50ng)
 -	0.5 µl Primer 1 (20µM)

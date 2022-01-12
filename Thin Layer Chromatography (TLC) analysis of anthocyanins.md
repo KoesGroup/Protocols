@@ -1,4 +1,4 @@
-##Thin Layer Chromatography (TLC) analysis of anthocyanins
+## Thin Layer Chromatography (TLC) analysis of anthocyanins
 To get an indication of the effect of various mutations on flower color we will analyze the
 accumulated pigments by Thin Layer Chromatography (TLC). Therefore anthocyanins are
 extracted from the flowers and boiled in 2M HCl to hydrolyze the sugars.

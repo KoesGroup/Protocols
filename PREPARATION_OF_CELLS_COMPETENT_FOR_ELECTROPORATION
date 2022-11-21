@@ -1,0 +1,57 @@
+# PREPARATION OF CELLS COMPETENT FOR ELECTROPORATION
+
+1. Inoculate 3 ml of SOB or YT medium with a single colony of bacterial strain i.e. XL-1 blue, JM109, DB3.1, DH10B, etc. and incubate at 37˚C overnight.
+
+Note: These cells should always be freshly grown for preparing the culture in step 2.
+
+2. Place 1 liter SOB medium or LB with low salt (1g NaCl per liter) in a 3-liter flask and inoculate with 0.8 – 1 ml (i.e., prepare a 1000-fold dilution) of the saturated overnight culture from step 1.
+
+Incubate at 37˚C with agitation at 200 rpm. Monitor the cell growth by reading the optical density at 600 nm (OD600). Harvest the cells when the OD600 reaches between 0.6 and 0.8 (i.e., 3 x 108 to 4 x 108 cells/ml; usually 5 hours).
+
+During this incubation, chill a MSE medium speed rotor for step 3. Use buckets of 250ml or 500ml. Careful with sterilizing the buckets, preferably not in autoclave(many buckets were destroyed), but sterilization with ethanol and washing a few times with sterile water.
+
+Notes: The use of medium prewarmed to 37˚C can shorten de preparation time required by approximately 1 hour.
+
+It is important to recover the cells while they are still in log growth phase (i.e., they should not be allowed to reach an OD600 of more than 0.8). It is also important to proceed promptly once the cells are recovered.
+
+SOB is a very rich medium that promotes rapid growth of any contaminating microorganisms. Trace amounts of contamination may escape visual detection but will still spoil a batch of cells. To verify the sterility of the medium, incubate it at 37˚C overnight before use and ensure that no microbial growth is observed.
+
+3. Transfer 200-250 ml of the culture into four 250-mo centrifuge bottles. Centrifuge in the chilled Sorvall GSA rotor at 5000 rpm (4000g) at 4˚C for 10 minutes. Decant the supernatants.
+
+Note: Throughout the remainder of the protocol, keep the cells on ice when they are not in the centrifuge. Promptly remove the cells from the centrifuge at the end of each centrifugationl.
+
+4. Resuspend the cell pellets in 200-250 ml of ice-cold 10% glycerol.
+
+5. Centrifuge in the MSE medium speed rotor at 5000 rpm (4000g) at 4˚C for 10 minutes.
+
+6 Carefully decant the supernatants (this time the pellets will be quite loose) and repeat steps 4 – 5.
+
+7. Decant the supernatants and resuspend the cells in the small volume of supernatant that remains in each bottle.
+
+8. Pool and transfer the cell suspensions into a single 50-ml Nalgene centrifuge tube. Centrifuge in a MSE medium speed 8x50ml rotor 7000 rpm (6000g) at 4˚C for 10 minutes or.
+
+Note: This last centrifugation facilitates resuspension of the cells in a small volume by collecting them in a smaller, tighter pellet.
+
+9. Decant the supernatant and resuspend the cells in approximately 3-4 ml of ice-cold 10% glycerol for each liter of the original culture.
+
+10.Divide the cells into 0.1-0.2ml aliquots in 1,5-ml microcentrifuge tubes (25-30 µl will be used for each transformation). Quick freeze the cells by placing them in liquid N2. Store at -80˚C until needed for the electroporation.
+
+Don’t forget to clean the rotor + buckets and to put them back in the fridge!
+
+Note: The transformation efficiency obtained with these cells should be greater than 109
+
+Colonies /µg of DNA for small DNA, such as pBeloBAC11 (7.4 kb)
+
+11. Test for contamination by thawing an aliquot of cells on ice. Streak an LB agar plate with the cells and incubate at 37˚C overnight.
+
+Note; Thawed cells can be refrozen for use at a later date. A second round of freezing does not result in a significant drop in transformation efficiency.
+
+12. Examine the single colonies on the plates for possible contamination.
+
+LB low salt= (per liter) 10g Tryptone; 5g yeast extract, 1.0g Nacl ….
+
+SOB (per liter) = 2,5 ml KCL 1 M; 20 g Tryptone, 5 g yeast extract; 0,5 g NaCl
+
+Notes: Contamination appears as unusual colony morphology phenotypes.
+
+Whenever a new batch of cells is prepared, it must always be checked for contamination before use in BAC cloning (steps 11 and 12, above). It is not necessary to test the same batch of cells for contamination in subsequent uses.
